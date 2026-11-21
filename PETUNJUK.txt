@@ -1,0 +1,13 @@
+PAKET GAMBAR WEBSITE - VERSI RAPI
+
+Jumlah aset: 157 file.
+Semua gambar dioptimalkan ke format WEBP, dengan rasio/aspek asli dipertahankan.
+Dimensi maksimum sisi gambar 1200 px; kualitas kompresi 84.
+Struktur folder dikelompokkan berdasarkan materi, pulau, dan kategori.
+
+PENTING:
+- Gambar keberagaman budaya dan lagu daerah pada arsip sumber berupa kartu/teks judul, bukan foto objek budaya atau ilustrasi foto.
+- Gambar makanan daerah merupakan foto makanan.
+- Tidak ada isi gambar yang sengaja dipotong atau diganti.
+
+Gunakan file_web pada manifest_gambar.csv sebagai path relatif dari folder assets.
